@@ -15,7 +15,7 @@ header {
     width: 100%;
     top: 0;
     z-index: 1000;
-    transition: background 0.3s;
+    transition: backgraund 0.3s;
 }
 
 .navbar {
